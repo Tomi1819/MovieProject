@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data.Models", "src\Data.Models\Data.Models.csproj", "{A52B459C-5928-4F5A-877C-C099ABB7D446}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebProject", "src1\WebProject\WebProject.csproj", "{3FCB048A-CF05-414C-9C37-4A3753908DC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvcMovie", "src1\WebProject\MvcMovie.csproj", "{3FCB048A-CF05-414C-9C37-4A3753908DC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
