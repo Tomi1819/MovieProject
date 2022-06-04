@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Data.Models.Contex
 {
-    public class MyDbContex : DbContext
+    public class MyDbContext : DbContext
     {
         DbSet<Actor> Actors { get; set; }
         DbSet<Country> Countries { get; set; }
